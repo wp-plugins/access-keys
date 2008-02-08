@@ -4,7 +4,7 @@ Plugin Name: Access Keys
 Plugin URI: http://anthologyoi.com/wordpress/plugins/wordpress-access-keys.html
 Description: This plugin allows you to add Access Keys to Category and Page navigation menus to make your website far more accessible.
 Author: Aaron Harun
-Version: 0.5
+Version: 0.6
 Author URI: http://anthologyoi.com/
 */
 
