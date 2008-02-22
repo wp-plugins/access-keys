@@ -1,5 +1,5 @@
 === Access Keys ===
-Contributors: ajd777
+Contributors: Aaron Harun
 Donate link: http://anthologyoi.com/about/donate/
 Tags: accessibility, access keys, 
 Requires at least: 2.1
