@@ -1,7 +1,7 @@
 === Access Keys ===
 Contributors: Aaron Harun
 Donate link: http://anthologyoi.com/about/donate/
-Tags: accessibility, access keys,
+Tags: accessibility, access keys, pages, categories, admin, plugin, links
 Requires at least: 2.1
 Tested up to: 2.5
 Stable tag: 1.0
